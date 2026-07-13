@@ -1,0 +1,14 @@
+{
+	layout	: "intl",
+	value	: {
+		en		: {
+			layout	: "document",
+			title	: "JSON renderer",
+			content	: [
+				"Русский. This is JSON renderer. Has 3 modes defined: 1) CLONE - just gives whole layout in form of JSON-like notation, 2) DUMB - gives only mandatory supported layouts, 3) EXTERNALIZED - everything in externalized form.",
+				undefined
+			]
+		},
+		ru		: "Это JSON рендерер. Имеет 3 режима: 1) CLONE - возвращает весь лэйаут в JSON-подобном виде, 2) DUMB - возвращает только лэйауты обязательные для поддержки, 3) EXTERNALIZED - в специальном внешнем виде."
+	}
+}

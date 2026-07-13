@@ -1,0 +1,6 @@
+{
+	"type" : "commonjs",
+	"name" : "ae3.sys.l2.tgt.json",
+	"description" : "AE3 L2 Media Target: JSON",
+	"requires" : "ae3.base"
+}
